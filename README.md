@@ -10,5 +10,6 @@ Frontend: React (Vite), React Router, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB
 Authentication: JWT & bcrypt
 State Management: Redux Toolkit
+
 🛠 Project Status
 This project is ongoing and will be expanded with more features in future updates.
